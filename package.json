@@ -1,0 +1,22 @@
+{
+  "name": "react-sudo-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wangjichao-sudo/react-sudo-check.git"
+  },
+  "keywords": [
+    "huihui@!3"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wangjichao-sudo/react-sudo-check/issues"
+  },
+  "homepage": "https://github.com/Wangjichao-sudo/react-sudo-check#readme"
+}
