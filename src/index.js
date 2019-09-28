@@ -1,2 +1,1 @@
-const data = 'index';
-export default { data };
+export { data, info } from './public';
